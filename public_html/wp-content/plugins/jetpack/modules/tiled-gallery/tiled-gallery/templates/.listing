@@ -1,0 +1,7 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        828 Nov 15  2016 carousel-container.php
+-rw-r--r--   1 adminftp@207891479237671 225273         53 Nov 15  2016 circle-layout.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 partials
+-rw-r--r--   1 adminftp@207891479237671 225273        986 Nov 15  2016 rectangular-layout.php
+-rw-r--r--   1 adminftp@207891479237671 225273        831 Nov 15  2016 square-layout.php

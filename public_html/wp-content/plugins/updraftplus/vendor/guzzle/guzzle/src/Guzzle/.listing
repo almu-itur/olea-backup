@@ -1,0 +1,13 @@
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 Batch
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Cache
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 Common
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 Http
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Inflection
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Iterator
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Log
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 10:21 Parser
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 Plugin
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 Service
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Stream

@@ -1,0 +1,5 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 Apr 16 12:36 assets
+-rw-r--r--   1 adminftp@207891479237671 225273          0 Apr 16 12:36 index.php
+-rw-r--r--   1 adminftp@207891479237671 225273      17511 Apr 16 12:36 revslider-front.class.php

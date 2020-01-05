@@ -1,0 +1,13 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  17 adminftp@207891479237671 225273       4096 Jul 18 11:24 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       2382 Nov 15  2016 akismet.php
+-rw-r--r--   1 adminftp@207891479237671 225273      39728 Nov 15  2016 class.akismet-admin.php
+-rw-r--r--   1 adminftp@207891479237671 225273      46279 Nov 15  2016 class.akismet.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2720 Nov 15  2016 class.akismet-widget.php
+-rw-r--r--   1 adminftp@207891479237671 225273        629 Nov 15  2016 .htaccess
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 _inc
+-rw-r--r--   1 adminftp@207891479237671 225273         26 Nov 15  2016 index.php
+-rw-r--r--   1 adminftp@207891479237671 225273      18092 Nov 15  2016 LICENSE.txt
+-rw-r--r--   1 adminftp@207891479237671 225273      13740 Nov 15  2016 readme.txt
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 views
+-rw-r--r--   1 adminftp@207891479237671 225273       6427 Nov 15  2016 wrapper.php

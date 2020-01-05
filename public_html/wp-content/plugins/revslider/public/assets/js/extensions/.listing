@@ -1,0 +1,13 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+-rw-r--r--   1 adminftp@207891479237671 225273          0 Apr 16 12:36 index.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7729 Apr 16 12:36 revolution.extension.actions.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       7364 Apr 16 12:36 revolution.extension.carousel.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       3124 Apr 16 12:36 revolution.extension.kenburn.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      32801 Apr 16 12:36 revolution.extension.layeranimation.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       6110 Apr 16 12:36 revolution.extension.migration.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      25789 Apr 16 12:36 revolution.extension.navigation.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       9017 Apr 16 12:36 revolution.extension.parallax.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      28131 Apr 16 12:36 revolution.extension.slideanims.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      23540 Apr 16 12:36 revolution.extension.video.min.js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 source

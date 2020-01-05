@@ -1,0 +1,16 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1018 May  8 10:21 CannedAcl.php
+-rw-r--r--   1 adminftp@207891479237671 225273        748 May  8 10:21 EncodingType.php
+-rw-r--r--   1 adminftp@207891479237671 225273        788 May  8 10:21 Event.php
+-rw-r--r--   1 adminftp@207891479237671 225273        827 May  8 10:21 GranteeType.php
+-rw-r--r--   1 adminftp@207891479237671 225273        997 May  8 10:21 Group.php
+-rw-r--r--   1 adminftp@207891479237671 225273        791 May  8 10:21 MetadataDirective.php
+-rw-r--r--   1 adminftp@207891479237671 225273        783 May  8 10:21 MFADelete.php
+-rw-r--r--   1 adminftp@207891479237671 225273        786 May  8 10:21 Payer.php
+-rw-r--r--   1 adminftp@207891479237671 225273        882 May  8 10:21 Permission.php
+-rw-r--r--   1 adminftp@207891479237671 225273        769 May  8 10:21 Protocol.php
+-rw-r--r--   1 adminftp@207891479237671 225273        770 May  8 10:21 ServerSideEncryption.php
+-rw-r--r--   1 adminftp@207891479237671 225273        779 May  8 10:21 Status.php
+-rw-r--r--   1 adminftp@207891479237671 225273        811 May  8 10:21 StorageClass.php
+-rw-r--r--   1 adminftp@207891479237671 225273        833 May  8 10:21 Storage.php

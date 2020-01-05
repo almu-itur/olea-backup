@@ -1,0 +1,6 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1676 May  8 10:21 AbstractMessageParser.php
+-rw-r--r--   1 adminftp@207891479237671 225273        695 May  8 10:21 MessageParserInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3371 May  8 10:21 MessageParser.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1198 May  8 10:21 PeclHttpMessageParser.php

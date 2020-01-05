@@ -1,0 +1,11 @@
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 10:08 .
+drwxr-xr-x  17 adminftp@207891479237671 225273       4096 Jul 18 11:24 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       5432 May  8 10:08 autoptimize_helper.php_example
+-rw-r--r--   1 adminftp@207891479237671 225273      12752 May  8 10:08 autoptimize.php
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 10:08 classes
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:08 classlesses
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:08 config
+-rw-r--r--   1 adminftp@207891479237671 225273        189 May  8 10:08 index.html
+-rw-r--r--   1 adminftp@207891479237671 225273      18027 May  8 10:08 LICENSE
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:08 localization
+-rw-r--r--   1 adminftp@207891479237671 225273      45494 May  8 10:08 readme.txt

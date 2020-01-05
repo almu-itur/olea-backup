@@ -1,0 +1,11 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1045 May  8 10:21 AbstractResourceIteratorFactory.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1775 May  8 10:21 CompositeResourceIteratorFactory.php
+-rw-r--r--   1 adminftp@207891479237671 225273        904 May  8 10:21 MapResourceIteratorFactory.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2062 May  8 10:21 Model.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3411 May  8 10:21 ResourceIteratorApplyBatched.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1992 May  8 10:21 ResourceIteratorClassFactory.php
+-rw-r--r--   1 adminftp@207891479237671 225273        789 May  8 10:21 ResourceIteratorFactoryInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1795 May  8 10:21 ResourceIteratorInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7516 May  8 10:21 ResourceIterator.php

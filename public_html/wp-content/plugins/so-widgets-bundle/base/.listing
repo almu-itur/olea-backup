@@ -1,0 +1,9 @@
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  7 11:22 .
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 May  7 11:22 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       7392 May  7 11:22 base.php
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  7 11:22 css
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  7 11:22 inc
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 less
+-rw-r--r--   1 adminftp@207891479237671 225273      40659 May  7 11:22 siteorigin-widget.class.php
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  7 11:22 tpl

@@ -1,0 +1,12 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 11:09 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 Jul 18 18:30 ..
+-rw-r--r--   1 adminftp@207891479237671 225273     327387 May  8 11:09 backup_2017-05-08-1108_OLEA_LEGAL_6b8adb482913-db.gz
+-rw-r--r--   1 adminftp@207891479237671 225273     564944 May  8 11:09 backup_2017-05-08-1108_OLEA_LEGAL_6b8adb482913-others.zip
+-rw-r--r--   1 adminftp@207891479237671 225273   39688377 May  8 11:09 backup_2017-05-08-1108_OLEA_LEGAL_6b8adb482913-plugins.zip
+-rw-r--r--   1 adminftp@207891479237671 225273   25882239 May  8 11:09 backup_2017-05-08-1108_OLEA_LEGAL_6b8adb482913-themes.zip
+-rw-r--r--   1 adminftp@207891479237671 225273   93812985 May  8 11:09 backup_2017-05-08-1108_OLEA_LEGAL_6b8adb482913-uploads.zip
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 11:08 emptydir
+-rw-r--r--   1 adminftp@207891479237671 225273         13 May  8 10:22 .htaccess
+-rw-r--r--   1 adminftp@207891479237671 225273         96 May  8 10:22 index.html
+-rw-r--r--   1 adminftp@207891479237671 225273      37775 May  8 11:09 log.6b8adb482913.txt
+-rw-r--r--   1 adminftp@207891479237671 225273        124 May  8 10:22 web.config

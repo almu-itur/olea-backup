@@ -1,0 +1,10 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May 29 18:27 .
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May 29 18:27 ..
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May 29 18:27 admin
+-rw-r--r--   1 adminftp@207891479237671 225273      14112 May 29 18:27 deprecated.php
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May 29 18:27 frontend
+-rw-r--r--   1 adminftp@207891479237671 225273      38057 May 29 18:27 helpers.php
+-rw-r--r--   1 adminftp@207891479237671 225273         67 May 29 18:27 index.php
+-rw-r--r--   1 adminftp@207891479237671 225273      25457 May 29 18:27 install.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4088 May 29 18:27 measurement-protocol.php
+-rw-r--r--   1 adminftp@207891479237671 225273      13816 May 29 18:27 options.php

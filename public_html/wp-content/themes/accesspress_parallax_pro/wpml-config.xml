@@ -1,0 +1,20 @@
+<wpml-config>
+    <admin-texts>
+        <key name="accesspress_parallax_pro">
+            <key name="header_text" />
+            <key name="home_text" />
+            <key name="read_more_text" />
+            <key name="read_all_text" />
+            <key name="continue_reading_text" />
+            <key name="portfolio_all1" />
+            <key name="breadcrumb_home_text" />
+            <key name="contact_title" />
+            <key name="contact_address" />
+            <key name="contact_detail" />
+            <key name="copy_right_text" />
+            <key name="right_footer_text" />
+        </key>
+    </admin-texts>       
+</wpml-config>
+
+

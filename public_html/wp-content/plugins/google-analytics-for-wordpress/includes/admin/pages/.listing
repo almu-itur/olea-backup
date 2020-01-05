@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May 29 18:27 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      21940 May 29 18:27 addons.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6612 May 29 18:27 dashboard.php
+-rw-r--r--   1 adminftp@207891479237671 225273       9090 May 29 18:27 network-settings.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8316 May 29 18:27 reports.php
+-rw-r--r--   1 adminftp@207891479237671 225273      12966 May 29 18:27 settings.php
+-rw-r--r--   1 adminftp@207891479237671 225273      18110 May 29 18:27 tools.php

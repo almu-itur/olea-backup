@@ -1,0 +1,7 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        766 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273       9476 May  8 10:21 PhpStreamRequestFactory.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4664 May  8 10:21 StreamInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7453 May  8 10:21 Stream.php
+-rw-r--r--   1 adminftp@207891479237671 225273        859 May  8 10:21 StreamRequestFactoryInterface.php

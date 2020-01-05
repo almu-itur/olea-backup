@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   8 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       4875 Nov 15  2016 captcha-on-comment-form.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2291 Nov 15  2016 captcha-on-login.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1902 Nov 15  2016 captcha-on-recover-password-form.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1946 Nov 15  2016 captcha-on-register-form.php
+-rw-r--r--   1 adminftp@207891479237671 225273         25 Nov 15  2016 index.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7229 Nov 15  2016 plugin-main-class.php

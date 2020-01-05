@@ -1,0 +1,11 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      12522 May  8 10:21 AbstractSyncBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4069 May  8 10:21 AbstractSync.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3951 May  8 10:21 ChangedFilesIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4170 May  8 10:21 DownloadSyncBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3386 May  8 10:21 DownloadSync.php
+-rw-r--r--   1 adminftp@207891479237671 225273        917 May  8 10:21 FilenameConverterInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2321 May  8 10:21 KeyConverter.php
+-rw-r--r--   1 adminftp@207891479237671 225273       5777 May  8 10:21 UploadSyncBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3002 May  8 10:21 UploadSync.php

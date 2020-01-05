@@ -1,0 +1,7 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 .
+drwxr-xr-x  12 adminftp@207891479237671 225273       4096 May 29 18:27 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      11658 May 29 18:27 Abstract.php
+-rw-r--r--   1 adminftp@207891479237671 225273     137045 May 29 18:27 cacerts.pem
+-rw-r--r--   1 adminftp@207891479237671 225273       6095 May 29 18:27 Curl.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1964 May 29 18:27 Exception.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6939 May 29 18:27 Stream.php

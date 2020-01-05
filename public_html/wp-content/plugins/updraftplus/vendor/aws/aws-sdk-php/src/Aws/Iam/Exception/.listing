@@ -1,0 +1,17 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   5 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        838 May  8 10:21 DeleteConflictException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        796 May  8 10:21 DuplicateCertificateException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        780 May  8 10:21 EntityAlreadyExistsException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        996 May  8 10:21 EntityTemporarilyUnmodifiableException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        772 May  8 10:21 IamException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        823 May  8 10:21 InvalidAuthenticationCodeException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        752 May  8 10:21 InvalidCertificateException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        757 May  8 10:21 InvalidInputException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        773 May  8 10:21 InvalidUserTypeException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        782 May  8 10:21 KeyPairMismatchException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        839 May  8 10:21 LimitExceededException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        816 May  8 10:21 MalformedCertificateException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        812 May  8 10:21 MalformedPolicyDocumentException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        803 May  8 10:21 NoSuchEntityException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        821 May  8 10:21 PasswordPolicyViolationException.php

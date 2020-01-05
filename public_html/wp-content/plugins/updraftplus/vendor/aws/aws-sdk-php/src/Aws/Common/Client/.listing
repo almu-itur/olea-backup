@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  15 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       9680 May  8 10:21 AbstractClient.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3258 May  8 10:21 AwsClientInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273      17829 May  8 10:21 ClientBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3526 May  8 10:21 DefaultClient.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2708 May  8 10:21 ExpiredCredentialsChecker.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2394 May  8 10:21 ThrottlingErrorChecker.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3387 May  8 10:21 UploadBodyListener.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1955 May  8 10:21 UserAgentListener.php

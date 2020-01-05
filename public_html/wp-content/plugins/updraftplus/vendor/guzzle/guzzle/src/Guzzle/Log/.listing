@@ -1,0 +1,12 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        288 May  8 10:21 AbstractLogAdapter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        615 May  8 10:21 ArrayLogAdapter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        583 May  8 10:21 ClosureLogAdapter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        672 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273        491 May  8 10:21 LogAdapterInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7119 May  8 10:21 MessageFormatter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        739 May  8 10:21 MonologLogAdapter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        862 May  8 10:21 PsrLogAdapter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        493 May  8 10:21 Zf1LogAdapter.php
+-rw-r--r--   1 adminftp@207891479237671 225273        393 May  8 10:21 Zf2LogAdapter.php

@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+-rw-r--r--   1 adminftp@207891479237671 225273         23 Apr 16 12:36 admin.js
+-rw-r--r--   1 adminftp@207891479237671 225273         22 Apr 16 12:36 admin.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273         63 Apr 16 12:36 embedded-video.js
+-rw-r--r--   1 adminftp@207891479237671 225273         56 Apr 16 12:36 embedded-video.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       3169 Apr 16 12:36 jquery.fitvids.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2023 Apr 16 12:36 jquery.fitvids.min.js

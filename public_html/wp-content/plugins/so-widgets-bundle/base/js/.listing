@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  7 11:22 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      43200 May  7 11:22 admin.js
+-rw-r--r--   1 adminftp@207891479237671 225273      15692 May  7 11:22 admin.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2505 May  7 11:22 meta-box-manager.js
+-rw-r--r--   1 adminftp@207891479237671 225273        667 May  7 11:22 meta-box-manager.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      26945 May  7 11:22 posts-selector.js
+-rw-r--r--   1 adminftp@207891479237671 225273      13468 May  7 11:22 posts-selector.min.js

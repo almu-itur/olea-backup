@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        134 May  8 10:21 BadMethodCallException.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2832 May  8 10:21 ExceptionCollection.php
+-rw-r--r--   1 adminftp@207891479237671 225273        100 May  8 10:21 GuzzleException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        138 May  8 10:21 InvalidArgumentException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        122 May  8 10:21 RuntimeException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        138 May  8 10:21 UnexpectedValueException.php

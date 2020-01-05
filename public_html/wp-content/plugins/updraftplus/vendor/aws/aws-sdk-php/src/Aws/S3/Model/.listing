@@ -1,0 +1,11 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       3407 May  8 10:21 AcpBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6442 May  8 10:21 Acp.php
+-rw-r--r--   1 adminftp@207891479237671 225273       5549 May  8 10:21 ClearBucket.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2777 May  8 10:21 DeleteObjectsBatch.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3958 May  8 10:21 DeleteObjectsTransfer.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6272 May  8 10:21 Grantee.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3377 May  8 10:21 Grant.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 MultipartUpload
+-rw-r--r--   1 adminftp@207891479237671 225273       9098 May  8 10:21 PostObject.php

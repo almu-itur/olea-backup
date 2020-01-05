@@ -1,0 +1,7 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1018 May  8 10:21 BulkOperationException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        703 May  8 10:21 ContainerException.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1157 May  8 10:21 ObjectNotFoundException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        700 May  8 10:21 StreamException.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1084 May  8 10:21 UploadException.php

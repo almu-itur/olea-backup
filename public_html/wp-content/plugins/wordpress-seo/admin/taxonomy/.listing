@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       6858 Nov 15  2016 class-taxonomy-columns.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2078 Nov 15  2016 class-taxonomy-content-fields.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2018 Nov 15  2016 class-taxonomy-fields.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6345 Nov 15  2016 class-taxonomy-fields-presenter.php
+-rw-r--r--   1 adminftp@207891479237671 225273      11363 Nov 15  2016 class-taxonomy-metabox.php
+-rw-r--r--   1 adminftp@207891479237671 225273       9958 Nov 15  2016 class-taxonomy.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4176 Nov 15  2016 class-taxonomy-settings-fields.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4546 Nov 15  2016 class-taxonomy-social-fields.php

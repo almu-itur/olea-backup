@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 Apr 16 12:42 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      16189 May 20 02:18 handlers.js
+-rw-r--r--   1 adminftp@207891479237671 225273      10551 May 20 02:18 handlers.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      17987 Nov 15  2016 license.txt
+-rw-r--r--   1 adminftp@207891479237671 225273      29570 Nov 15  2016 plupload.flash.swf
+-rw-r--r--   1 adminftp@207891479237671 225273     113081 Nov 15  2016 plupload.full.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      63118 Nov 15  2016 plupload.silverlight.xap
+-rw-r--r--   1 adminftp@207891479237671 225273      12714 Apr 16 12:42 wp-plupload.js
+-rw-r--r--   1 adminftp@207891479237671 225273       4920 Apr 16 12:42 wp-plupload.min.js

@@ -1,0 +1,15 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  35 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       8526 Nov 15  2016 admin-sharing.css
+-rw-r--r--   1 adminftp@207891479237671 225273      13852 Nov 15  2016 admin-sharing.js
+-rw-r--r--   1 adminftp@207891479237671 225273       7285 Nov 15  2016 admin-sharing.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       8620 Nov 15  2016 admin-sharing-rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273       7191 Nov 15  2016 admin-sharing-rtl.min.css
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 images
+-rw-r--r--   1 adminftp@207891479237671 225273       4981 Nov 15  2016 recaptcha.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8919 Nov 15  2016 sharedaddy.php
+-rw-r--r--   1 adminftp@207891479237671 225273      19363 Nov 15  2016 sharing.css
+-rw-r--r--   1 adminftp@207891479237671 225273      15296 Nov 15  2016 sharing.js
+-rw-r--r--   1 adminftp@207891479237671 225273      19330 Nov 15  2016 sharing.php
+-rw-r--r--   1 adminftp@207891479237671 225273      23546 Nov 15  2016 sharing-service.php
+-rw-r--r--   1 adminftp@207891479237671 225273      53441 Nov 15  2016 sharing-sources.php

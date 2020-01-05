@@ -1,0 +1,5 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  7 11:22 .
+drwxr-xr-x  22 adminftp@207891479237671 225273       4096 May  7 11:22 ..
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 assets
+-rw-r--r--   1 adminftp@207891479237671 225273       2420 May  7 11:22 editor.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 tpl

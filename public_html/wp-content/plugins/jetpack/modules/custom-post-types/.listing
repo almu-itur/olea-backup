@@ -1,0 +1,9 @@
+drwxr-xr-x   5 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  35 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 comics
+-rw-r--r--   1 adminftp@207891479237671 225273      19296 Nov 15  2016 comics.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 css
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 js
+-rw-r--r--   1 adminftp@207891479237671 225273      39234 Nov 15  2016 nova.php
+-rw-r--r--   1 adminftp@207891479237671 225273      31109 Nov 15  2016 portfolios.php
+-rw-r--r--   1 adminftp@207891479237671 225273      27033 Nov 15  2016 testimonial.php

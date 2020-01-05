@@ -1,0 +1,6 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 boards
+-rw-r--r--   1 adminftp@207891479237671 225273       2502 Apr 16 12:36 save-settings.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8717 Apr 16 12:36 settings.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3414 Apr 16 12:36 widget.php

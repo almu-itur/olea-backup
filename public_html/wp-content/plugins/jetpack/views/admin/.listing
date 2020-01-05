@@ -1,0 +1,9 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        656 Nov 15  2016 must-connect-main-blog.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8584 Nov 15  2016 my-jetpack-page.php
+-rw-r--r--   1 adminftp@207891479237671 225273        250 Nov 15  2016 network-activated-notice.php
+-rw-r--r--   1 adminftp@207891479237671 225273        256 Nov 15  2016 network-admin-alert.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1431 Nov 15  2016 network-admin-footer.php
+-rw-r--r--   1 adminftp@207891479237671 225273        515 Nov 15  2016 network-admin-header.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4116 Nov 15  2016 network-settings.php

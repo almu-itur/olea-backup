@@ -1,0 +1,14 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      50183 Nov 15  2016 admin.dops-style.css
+-rw-r--r--   1 adminftp@207891479237671 225273         97 Nov 15  2016 admin.dops-style.css.map
+-rw-r--r--   1 adminftp@207891479237671 225273      50288 Nov 15  2016 admin.dops-style.rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273      50429 Nov 15  2016 admin.dops-style.rtl.css.map
+-rw-r--r--   1 adminftp@207891479237671 225273    1218149 Nov 15  2016 admin.js
+-rw-r--r--   1 adminftp@207891479237671 225273       5252 Nov 15  2016 static.html
+-rw-r--r--   1 adminftp@207891479237671 225273        577 Nov 15  2016 static-ie-notice.html
+-rw-r--r--   1 adminftp@207891479237671 225273        417 Nov 15  2016 static-noscript-notice.html
+-rw-r--r--   1 adminftp@207891479237671 225273        396 Nov 15  2016 static-version-notice.html
+-rw-r--r--   1 adminftp@207891479237671 225273      33417 Nov 15  2016 style.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273      33465 Nov 15  2016 style.min.rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273      33578 Nov 15  2016 style.min.rtl.css.map

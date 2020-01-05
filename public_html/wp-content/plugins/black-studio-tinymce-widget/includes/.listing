@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      12953 Apr 16 12:36 class-admin.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4451 Apr 16 12:36 class-admin-pointer.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3438 Apr 16 12:36 class-compatibility.php
+-rw-r--r--   1 adminftp@207891479237671 225273      12363 Apr 16 12:36 class-compatibility-plugins.php
+-rw-r--r--   1 adminftp@207891479237671 225273      10878 Apr 16 12:36 class-compatibility-wordpress.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4392 Apr 16 12:36 class-text-filters.php
+-rw-r--r--   1 adminftp@207891479237671 225273       5611 Apr 16 12:36 class-widget.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3915 Apr 16 12:36 deprecated.php

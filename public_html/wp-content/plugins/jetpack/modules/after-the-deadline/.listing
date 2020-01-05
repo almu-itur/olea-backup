@@ -1,0 +1,16 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  35 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       3689 Nov 15  2016 atd-autoproofread.js
+-rw-r--r--   1 adminftp@207891479237671 225273      18748 Nov 15  2016 atd.core.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2063 Nov 15  2016 atd.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1488 Nov 15  2016 atd.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       9138 Nov 15  2016 atd-nonvis-editor-plugin.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2159 Nov 15  2016 atd-rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1396 Nov 15  2016 atd-rtl.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273        515 Nov 15  2016 button.gif
+-rw-r--r--   1 adminftp@207891479237671 225273       4657 Nov 15  2016 config-options.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4348 Nov 15  2016 config-unignore.php
+-rw-r--r--   1 adminftp@207891479237671 225273      13470 Nov 15  2016 jquery.atd.js
+-rw-r--r--   1 adminftp@207891479237671 225273       3336 Nov 15  2016 proxy.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 rtl
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 tinymce

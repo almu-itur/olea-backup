@@ -1,0 +1,7 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1372 May  8 10:21 ListBucketsIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1417 May  8 10:21 ListMultipartUploadsIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2716 May  8 10:21 ListObjectsIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1565 May  8 10:21 ListObjectVersionsIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2102 May  8 10:21 OpendirIterator.php

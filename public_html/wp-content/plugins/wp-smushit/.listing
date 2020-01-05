@@ -1,0 +1,10 @@
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 12:38 .
+drwxr-xr-x  17 adminftp@207891479237671 225273       4096 Jul 18 11:24 ..
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 12:38 assets
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 12:38 extras
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 12:38 languages
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 12:38 lib
+-rw-r--r--   1 adminftp@207891479237671 225273      35147 May  8 12:38 license.txt
+-rw-r--r--   1 adminftp@207891479237671 225273      22643 May  8 12:38 readme.txt
+-rw-r--r--   1 adminftp@207891479237671 225273       3695 May  8 12:38 uninstall.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8402 May  8 12:38 wp-smush.php

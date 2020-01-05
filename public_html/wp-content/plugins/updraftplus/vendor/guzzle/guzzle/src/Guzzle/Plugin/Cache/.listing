@@ -1,0 +1,15 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        245 May  8 10:21 CacheKeyProviderInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273      13114 May  8 10:21 CachePlugin.php
+-rw-r--r--   1 adminftp@207891479237671 225273        981 May  8 10:21 CacheStorageInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1667 May  8 10:21 CallbackCanCacheStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        649 May  8 10:21 CanCacheStrategyInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273        705 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273       1502 May  8 10:21 DefaultCacheKeyProvider.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8331 May  8 10:21 DefaultCacheStorage.php
+-rw-r--r--   1 adminftp@207891479237671 225273        908 May  8 10:21 DefaultCanCacheStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6353 May  8 10:21 DefaultRevalidation.php
+-rw-r--r--   1 adminftp@207891479237671 225273        406 May  8 10:21 DenyRevalidation.php
+-rw-r--r--   1 adminftp@207891479237671 225273        846 May  8 10:21 RevalidationInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273        406 May  8 10:21 SkipRevalidation.php

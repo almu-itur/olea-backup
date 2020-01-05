@@ -1,0 +1,9 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  15 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1258 May  8 10:21 AbstractSignature.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1264 May  8 10:21 EndpointSignatureInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1898 May  8 10:21 SignatureInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2587 May  8 10:21 SignatureListener.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3637 May  8 10:21 SignatureV2.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2113 May  8 10:21 SignatureV3Https.php
+-rw-r--r--   1 adminftp@207891479237671 225273      16220 May  8 10:21 SignatureV4.php

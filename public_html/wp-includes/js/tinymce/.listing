@@ -1,0 +1,12 @@
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 Apr 16 12:42 ..
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 langs
+-rw-r--r--   1 adminftp@207891479237671 225273      26427 Nov 15  2016 license.txt
+drwxr-xr-x  24 adminftp@207891479237671 225273       4096 Nov 15  2016 plugins
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 skins
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Apr 16 12:42 themes
+-rw-r--r--   1 adminftp@207891479237671 225273     405134 May 13 03:50 tinymce.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      15091 Nov 15  2016 tiny_mce_popup.js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 utils
+-rw-r--r--   1 adminftp@207891479237671 225273     182840 May 13 03:50 wp-tinymce.js.gz
+-rw-r--r--   1 adminftp@207891479237671 225273       1126 Nov 15  2016 wp-tinymce.php

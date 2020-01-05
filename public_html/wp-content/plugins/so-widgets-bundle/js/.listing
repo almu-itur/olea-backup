@@ -1,0 +1,11 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  7 11:22 .
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 May  7 11:22 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      53960 May  7 11:22 jquery.cycle.js
+-rw-r--r--   1 adminftp@207891479237671 225273      22309 May  7 11:22 jquery.cycle.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       3018 May  7 11:22 jquery.cycle.swipe.js
+-rw-r--r--   1 adminftp@207891479237671 225273       1237 May  7 11:22 jquery.cycle.swipe.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273      82979 May  7 11:22 jquery.touchSwipe.js
+-rw-r--r--   1 adminftp@207891479237671 225273      10257 May  7 11:22 jquery.touchSwipe.min.js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 slider
+-rw-r--r--   1 adminftp@207891479237671 225273       1560 May  7 11:22 sow.jquery.fittext.js
+-rw-r--r--   1 adminftp@207891479237671 225273        572 May  7 11:22 sow.jquery.fittext.min.js

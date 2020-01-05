@@ -1,0 +1,10 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       3936 Apr 16 12:36 admin-settings.css
+-rw-r--r--   1 adminftp@207891479237671 225273       4434 Apr 16 12:36 admin-settings.js
+-rw-r--r--   1 adminftp@207891479237671 225273       3062 Apr 16 12:36 admin-settings.less
+-rw-r--r--   1 adminftp@207891479237671 225273       3516 Apr 16 12:36 admin-settings.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       2272 Apr 16 12:36 admin-settings.min.js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 images
+-rw-r--r--   1 adminftp@207891479237671 225273      17232 Apr 16 12:36 settings.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 tpl

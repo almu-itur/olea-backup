@@ -1,0 +1,13 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273         49 May  8 10:21 apigen.neon
+-rw-r--r--   1 adminftp@207891479237671 225273       1152 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273       3948 May  8 10:21 CONTRIBUTING.md
+-rw-r--r--   1 adminftp@207891479237671 225273         12 May  8 10:21 .coveralls.yml
+-rw-r--r--   1 adminftp@207891479237671 225273        110 May  8 10:21 .gitignore
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 lib
+-rw-r--r--   1 adminftp@207891479237671 225273        696 May  8 10:21 LICENSE
+-rw-r--r--   1 adminftp@207891479237671 225273       1304 May  8 10:21 phpunit.xml.dist
+-rw-r--r--   1 adminftp@207891479237671 225273       2983 May  8 10:21 README.md
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 tests
+-rw-r--r--   1 adminftp@207891479237671 225273        725 May  8 10:21 .travis.yml

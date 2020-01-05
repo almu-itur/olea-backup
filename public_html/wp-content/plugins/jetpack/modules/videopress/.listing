@@ -1,0 +1,14 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  35 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      32654 Nov 15  2016 class.videopress-player.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8996 Nov 15  2016 class.videopress-video.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 css
+-rw-r--r--   1 adminftp@207891479237671 225273       8051 Nov 15  2016 editor-media-view.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 js
+-rw-r--r--   1 adminftp@207891479237671 225273       6243 Nov 15  2016 shortcode.php
+-rw-r--r--   1 adminftp@207891479237671 225273       5828 Nov 15  2016 utility-functions.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1534 Nov 15  2016 videopress-admin.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1345 Nov 15  2016 videopress-admin.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1632 Nov 15  2016 videopress-admin-rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1255 Nov 15  2016 videopress-admin-rtl.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273      29182 Nov 15  2016 videopress.php

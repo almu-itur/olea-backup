@@ -1,0 +1,15 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Apr 16 12:36 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        450 Apr 16 12:36 create-slider.php
+-rw-r--r--   1 adminftp@207891479237671 225273        398 Apr 16 12:36 edit-slider.php
+-rw-r--r--   1 adminftp@207891479237671 225273          0 Apr 16 12:36 index.php
+-rw-r--r--   1 adminftp@207891479237671 225273      84017 Apr 16 12:36 slide-general-settings.php
+-rw-r--r--   1 adminftp@207891479237671 225273     374390 Apr 16 12:36 slider-main-options.php
+-rw-r--r--   1 adminftp@207891479237671 225273      10632 Apr 16 12:36 sliders-list.php
+-rw-r--r--   1 adminftp@207891479237671 225273      13681 Apr 16 12:36 slide-selector.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7514 Apr 16 12:36 slides-list.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2977 Apr 16 12:36 slides.php
+-rw-r--r--   1 adminftp@207891479237671 225273     212990 Apr 16 12:36 slide-stage.php
+-rw-r--r--   1 adminftp@207891479237671 225273      21414 Apr 16 12:36 template-selector.php
+-rw-r--r--   1 adminftp@207891479237671 225273      16764 Apr 16 12:36 template-slider-selector.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3770 Apr 16 12:36 wpml-selector.php

@@ -1,0 +1,7 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       2656 Nov 15  2016 class-recalculate-scores-ajax.php
+-rw-r--r--   1 adminftp@207891479237671 225273        787 Nov 15  2016 class-shortcode-filter.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1629 Nov 15  2016 class-yoast-dismissable-notice.php
+-rw-r--r--   1 adminftp@207891479237671 225273        810 Nov 15  2016 class-yoast-onpage-ajax.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2763 Nov 15  2016 class-yoast-plugin-conflict-ajax.php

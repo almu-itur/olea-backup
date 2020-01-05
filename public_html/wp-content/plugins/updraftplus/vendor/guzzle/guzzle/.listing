@@ -1,0 +1,14 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1764 May  8 10:21 build.xml
+-rw-r--r--   1 adminftp@207891479237671 225273      48361 May  8 10:21 CHANGELOG.md
+-rw-r--r--   1 adminftp@207891479237671 225273       2497 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273        368 May  8 10:21 .gitignore
+-rw-r--r--   1 adminftp@207891479237671 225273       1111 May  8 10:21 LICENSE
+-rw-r--r--   1 adminftp@207891479237671 225273        593 May  8 10:21 phar-stub.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2378 May  8 10:21 phpunit.xml.dist
+-rw-r--r--   1 adminftp@207891479237671 225273       2543 May  8 10:21 README.md
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 src
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 tests
+-rw-r--r--   1 adminftp@207891479237671 225273        315 May  8 10:21 .travis.yml
+-rw-r--r--   1 adminftp@207891479237671 225273      21526 May  8 10:21 UPGRADING.md

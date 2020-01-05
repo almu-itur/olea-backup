@@ -1,0 +1,11 @@
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 Apr 16 12:36 .
+drwxr-xr-x  17 adminftp@207891479237671 225273       4096 Jul 18 11:24 ..
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Apr 16 12:36 admin
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:37 backup
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Apr 16 12:36 includes
+-rw-r--r--   1 adminftp@207891479237671 225273          0 Apr 16 12:36 index.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Apr 16 12:36 languages
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Apr 16 12:36 public
+-rw-r--r--   1 adminftp@207891479237671 225273      85218 Apr 16 12:36 release_log.html
+-rw-r--r--   1 adminftp@207891479237671 225273       8890 Apr 16 12:36 revslider.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1532 Apr 16 12:36 uninstall.php

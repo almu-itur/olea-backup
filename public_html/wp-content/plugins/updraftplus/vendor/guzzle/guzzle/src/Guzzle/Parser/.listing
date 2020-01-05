@@ -1,0 +1,8 @@
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        471 May  8 10:21 composer.json
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Cookie
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Message
+-rw-r--r--   1 adminftp@207891479237671 225273       1949 May  8 10:21 ParserRegistry.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 UriTemplate
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Url

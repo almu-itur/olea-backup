@@ -1,0 +1,9 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        444 May  8 10:21 AppendIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1302 May  8 10:21 ChunkedIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273        678 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273        986 May  8 10:21 FilterIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273        852 May  8 10:21 MapIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273        610 May  8 10:21 MethodProxyIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273        666 May  8 10:21 README.md

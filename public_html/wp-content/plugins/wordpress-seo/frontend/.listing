@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      24181 Nov 15  2016 class-breadcrumbs.php
+-rw-r--r--   1 adminftp@207891479237671 225273      58196 Nov 15  2016 class-frontend.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1347 Nov 15  2016 class-googleplus.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6628 Nov 15  2016 class-json-ld.php
+-rw-r--r--   1 adminftp@207891479237671 225273      27591 Nov 15  2016 class-opengraph.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1777 Nov 15  2016 class-primary-category.php
+-rw-r--r--   1 adminftp@207891479237671 225273      15144 Nov 15  2016 class-twitter.php
+-rw-r--r--   1 adminftp@207891479237671 225273         38 Nov 15  2016 index.php

@@ -1,0 +1,16 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  35 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1389 Nov 15  2016 omnisearch-comments.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7875 Nov 15  2016 omnisearch-core.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1770 Nov 15  2016 omnisearch.css
+-rw-r--r--   1 adminftp@207891479237671 225273        206 Nov 15  2016 omnisearch-jetpack.css
+-rw-r--r--   1 adminftp@207891479237671 225273        273 Nov 15  2016 omnisearch-jetpack.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273        299 Nov 15  2016 omnisearch-jetpack-rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273        178 Nov 15  2016 omnisearch-jetpack-rtl.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1194 Nov 15  2016 omnisearch-media.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1536 Nov 15  2016 omnisearch.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       2192 Nov 15  2016 omnisearch-plugins.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4831 Nov 15  2016 omnisearch-posts.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1863 Nov 15  2016 omnisearch-rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1441 Nov 15  2016 omnisearch-rtl.min.css
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 rtl

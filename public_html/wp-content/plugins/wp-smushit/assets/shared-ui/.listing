@@ -1,0 +1,9 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 12:38 .
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 12:38 ..
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 12:38 font
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 12:38 img
+-rw-r--r--   1 adminftp@207891479237671 225273       7178 May  8 12:38 notice.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1891 May  8 12:38 notice.js
+-rw-r--r--   1 adminftp@207891479237671 225273       8820 May  8 12:38 plugin-ui.php
+-rw-r--r--   1 adminftp@207891479237671 225273      68183 May  8 12:38 wdev-ui.css
+-rw-r--r--   1 adminftp@207891479237671 225273      32180 May  8 12:38 wdev-ui.js

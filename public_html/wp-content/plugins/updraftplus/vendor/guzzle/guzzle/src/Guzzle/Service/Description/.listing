@@ -1,0 +1,11 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       3721 May  8 10:21 OperationInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273      15734 May  8 10:21 Operation.php
+-rw-r--r--   1 adminftp@207891479237671 225273      25055 May  8 10:21 Parameter.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4073 May  8 10:21 SchemaFormatter.php
+-rw-r--r--   1 adminftp@207891479237671 225273      11882 May  8 10:21 SchemaValidator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2225 May  8 10:21 ServiceDescriptionInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2535 May  8 10:21 ServiceDescriptionLoader.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7308 May  8 10:21 ServiceDescription.php
+-rw-r--r--   1 adminftp@207891479237671 225273        977 May  8 10:21 ValidatorInterface.php

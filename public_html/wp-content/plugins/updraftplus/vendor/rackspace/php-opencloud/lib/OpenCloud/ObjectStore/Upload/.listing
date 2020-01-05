@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       5930 May  8 10:21 AbstractTransfer.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3558 May  8 10:21 ConcurrentTransfer.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2325 May  8 10:21 ConsecutiveTransfer.php
+-rw-r--r--   1 adminftp@207891479237671 225273       5703 May  8 10:21 ContainerMigration.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6720 May  8 10:21 DirectorySync.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3763 May  8 10:21 TransferBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4345 May  8 10:21 TransferPart.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1739 May  8 10:21 TransferState.php

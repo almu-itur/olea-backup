@@ -1,0 +1,11 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  18 adminftp@207891479237671 225273      12288 Apr 16 12:42 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       2112 Apr 16 12:42 comments.php
+-rw-r--r--   1 adminftp@207891479237671 225273        970 Nov 15  2016 embed-404.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3198 Apr 16 12:42 embed-content.php
+-rw-r--r--   1 adminftp@207891479237671 225273        479 Nov 15  2016 embed.php
+-rw-r--r--   1 adminftp@207891479237671 225273        438 Apr 16 12:42 footer-embed.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1059 Apr 16 12:42 footer.php
+-rw-r--r--   1 adminftp@207891479237671 225273        704 Apr 16 12:42 header-embed.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1893 Apr 16 12:42 header.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4060 Apr 16 12:42 sidebar.php

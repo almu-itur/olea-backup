@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       2189 Nov 15  2016 back-compat.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4519 Nov 15  2016 custom-header.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6635 Nov 15  2016 customizer.php
+-rw-r--r--   1 adminftp@207891479237671 225273      15187 Nov 15  2016 featured-content.php
+-rw-r--r--   1 adminftp@207891479237671 225273       7224 Nov 15  2016 template-tags.php
+-rw-r--r--   1 adminftp@207891479237671 225273      10615 Nov 15  2016 widgets.php

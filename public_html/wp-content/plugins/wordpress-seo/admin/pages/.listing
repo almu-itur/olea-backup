@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1590 Nov 15  2016 advanced.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3142 Nov 15  2016 dashboard.php
+-rw-r--r--   1 adminftp@207891479237671 225273      10307 Nov 15  2016 licenses.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2650 Nov 15  2016 metas.php
+-rw-r--r--   1 adminftp@207891479237671 225273       5518 Nov 15  2016 network.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1128 Nov 15  2016 social.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3042 Nov 15  2016 tools.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2013 Nov 15  2016 xml-sitemaps.php

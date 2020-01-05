@@ -1,0 +1,5 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May 29 18:27 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      23114 May 29 18:27 license.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2332 May 29 18:27 skin.php
+-rw-r--r--   1 adminftp@207891479237671 225273      11159 May 29 18:27 updater.php

@@ -1,0 +1,16 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       3145 May  8 10:21 AbstractBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1045 May  8 10:21 AbstractErrorCodeBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2321 May  8 10:21 BackoffLogger.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4413 May  8 10:21 BackoffPlugin.php
+-rw-r--r--   1 adminftp@207891479237671 225273        995 May  8 10:21 BackoffStrategyInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1524 May  8 10:21 CallbackBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        713 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273        903 May  8 10:21 ConstantBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        991 May  8 10:21 CurlBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        654 May  8 10:21 ExponentialBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        902 May  8 10:21 HttpBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        909 May  8 10:21 LinearBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        686 May  8 10:21 ReasonPhraseBackoffStrategy.php
+-rw-r--r--   1 adminftp@207891479237671 225273        975 May  8 10:21 TruncatedBackoffStrategy.php

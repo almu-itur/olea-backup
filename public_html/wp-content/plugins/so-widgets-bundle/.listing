@@ -1,0 +1,14 @@
+drwxr-xr-x  11 adminftp@207891479237671 225273       4096 May  7 11:22 .
+drwxr-xr-x  17 adminftp@207891479237671 225273       4096 Jul 18 11:24 ..
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  7 11:22 admin
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 banners
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  7 11:22 base
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  7 11:22 compat
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  7 11:22 css
+drwxr-xr-x   8 adminftp@207891479237671 225273       4096 May  7 11:22 icons
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  7 11:22 js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  7 11:22 lang
+-rw-r--r--   1 adminftp@207891479237671 225273        488 May  7 11:22 readme.md
+-rw-r--r--   1 adminftp@207891479237671 225273      18917 May  7 11:22 readme.txt
+-rw-r--r--   1 adminftp@207891479237671 225273      23043 May  7 11:22 so-widgets-bundle.php
+drwxr-xr-x  22 adminftp@207891479237671 225273       4096 May  7 11:22 widgets

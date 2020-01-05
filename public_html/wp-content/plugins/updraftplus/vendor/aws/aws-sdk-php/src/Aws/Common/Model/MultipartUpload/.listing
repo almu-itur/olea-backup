@@ -1,0 +1,11 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       6973 May  8 10:21 AbstractTransfer.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3637 May  8 10:21 AbstractTransferState.php
+-rw-r--r--   1 adminftp@207891479237671 225273       4309 May  8 10:21 AbstractUploadBuilder.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2286 May  8 10:21 AbstractUploadId.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2529 May  8 10:21 AbstractUploadPart.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1871 May  8 10:21 TransferInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2439 May  8 10:21 TransferStateInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1129 May  8 10:21 UploadIdInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1257 May  8 10:21 UploadPartInterface.php

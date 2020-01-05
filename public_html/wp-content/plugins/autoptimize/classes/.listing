@@ -1,0 +1,12 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 10:08 .
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 10:08 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      12084 May  8 10:08 autoptimizeBase.php
+-rw-r--r--   1 adminftp@207891479237671 225273       9735 May  8 10:08 autoptimizeCache.php
+-rw-r--r--   1 adminftp@207891479237671 225273      31156 May  8 10:08 autoptimizeConfig.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3022 May  8 10:08 autoptimizeHTML.php
+-rw-r--r--   1 adminftp@207891479237671 225273      17241 May  8 10:08 autoptimizeScripts.php
+-rw-r--r--   1 adminftp@207891479237671 225273      31045 May  8 10:08 autoptimizeStyles.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6015 May  8 10:08 autoptimizeToolbar.php
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May  8 10:08 external
+-rw-r--r--   1 adminftp@207891479237671 225273        189 May  8 10:08 index.html
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:08 static

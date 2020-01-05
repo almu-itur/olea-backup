@@ -1,0 +1,11 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       3024 May  8 10:21 AbstractLogger.php
+-rw-r--r--   1 adminftp@207891479237671 225273         96 May  8 10:21 InvalidArgumentException.php
+-rw-r--r--   1 adminftp@207891479237671 225273        288 May  8 10:21 LoggerAwareInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273        351 May  8 10:21 LoggerAwareTrait.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2965 May  8 10:21 LoggerInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       3288 May  8 10:21 LoggerTrait.php
+-rw-r--r--   1 adminftp@207891479237671 225273        312 May  8 10:21 LogLevel.php
+-rw-r--r--   1 adminftp@207891479237671 225273        641 May  8 10:21 NullLogger.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Test

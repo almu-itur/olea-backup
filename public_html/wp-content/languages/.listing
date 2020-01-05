@@ -1,0 +1,10 @@
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 Jul 18 18:30 ..
+-rw-r--r--   1 adminftp@207891479237671 225273     335190 Apr 16 12:42 admin-en_GB.mo
+-rw-r--r--   1 adminftp@207891479237671 225273     470232 Apr 16 12:42 admin-en_GB.po
+-rw-r--r--   1 adminftp@207891479237671 225273      45741 Apr 16 12:42 admin-network-en_GB.mo
+-rw-r--r--   1 adminftp@207891479237671 225273      62393 Apr 16 12:42 admin-network-en_GB.po
+-rw-r--r--   1 adminftp@207891479237671 225273     201712 Apr 16 12:42 en_GB.mo
+-rw-r--r--   1 adminftp@207891479237671 225273     352986 Apr 16 12:42 en_GB.po
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 plugins
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 themes

@@ -1,0 +1,7 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      10165 May  8 10:21 SCP.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 SFTP
+-rw-r--r--   1 adminftp@207891479237671 225273      95304 May  8 10:21 SFTP.php
+-rw-r--r--   1 adminftp@207891479237671 225273      54172 May  8 10:21 SSH1.php
+-rw-r--r--   1 adminftp@207891479237671 225273     146963 May  8 10:21 SSH2.php

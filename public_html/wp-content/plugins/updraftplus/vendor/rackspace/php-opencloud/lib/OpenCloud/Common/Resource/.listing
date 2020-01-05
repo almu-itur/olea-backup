@@ -1,0 +1,6 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       7433 May  8 10:21 BaseResource.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1635 May  8 10:21 NovaResource.php
+-rw-r--r--   1 adminftp@207891479237671 225273      11051 May  8 10:21 PersistentResource.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1109 May  8 10:21 ReadOnlyResource.php

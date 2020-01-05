@@ -1,0 +1,10 @@
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May 29 18:27 .
+drwxr-xr-x  17 adminftp@207891479237671 225273       4096 Jul 18 11:24 ..
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May 29 18:27 assets
+-rw-r--r--   1 adminftp@207891479237671 225273      25489 May 29 18:27 googleanalytics.php
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 May 29 18:27 includes
+-rw-r--r--   1 adminftp@207891479237671 225273         67 May 29 18:27 index.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 languages
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May 29 18:27 lite
+-rw-r--r--   1 adminftp@207891479237671 225273      15303 May 29 18:27 README.md
+-rw-r--r--   1 adminftp@207891479237671 225273      27142 May 29 18:27 readme.txt

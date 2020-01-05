@@ -1,0 +1,10 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   5 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      24832 Nov 15  2016 autoload_classmap.php
+-rw-r--r--   1 adminftp@207891479237671 225273        305 Nov 15  2016 autoload_namespaces.php
+-rw-r--r--   1 adminftp@207891479237671 225273        143 Nov 15  2016 autoload_psr4.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1180 Nov 15  2016 autoload_real_52.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1681 Nov 15  2016 autoload_real.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6245 Nov 15  2016 ClassLoader52.php
+-rw-r--r--   1 adminftp@207891479237671 225273      12567 Nov 15  2016 ClassLoader.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1075 Nov 15  2016 LICENSE

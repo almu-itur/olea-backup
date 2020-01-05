@@ -1,0 +1,43 @@
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a {
+  -ms-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 1em;
+  padding: 1em 2em;
+  background: #22bed6;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#1b97aa),color-stop(1,#22bed6));
+  background: -ms-linear-gradient(bottom,#1b97aa,#22bed6);
+  background: -moz-linear-gradient(center bottom,#1b97aa 0%,#22bed6 100%);
+  background: -o-linear-gradient(#22bed6,#1b97aa);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#22bed6', endColorstr='#1b97aa', GradientType=0);
+  border: 1px solid;
+  border-color: #198b9d #188394 #157887 #188394;
+  color: #FFFFFF !important;
+  -webkit-border-radius: 0.25em;
+  -moz-border-radius: 0.25em;
+  border-radius: 0.25em;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0,0,0,0.05);
+}
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a .sow-icon-image,
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a [class^="sow-icon-"] {
+  margin: -0.1em 0.75em -0.2em -0.75em;
+}
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a:visited,
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a:active,
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a:hover {
+  color: #FFFFFF !important;
+}
+.so-widget-sow-button-atom-f73aa097ef13 .ow-button-base a.ow-button-hover:hover {
+  background: #26c4dc;
+  background: -webkit-gradient(linear,left bottom,left top,color-stop(0,#1c9fb3),color-stop(1,#26c4dc));
+  background: -ms-linear-gradient(bottom,#1c9fb3,#26c4dc);
+  background: -moz-linear-gradient(center bottom,#1c9fb3 0%,#26c4dc 100%);
+  background: -o-linear-gradient(#26c4dc,#1c9fb3);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#26c4dc', endColorstr='#1c9fb3', GradientType=0);
+  border-color: #1a93a6 #198b9d #177f90 #198b9d;
+  color: #ffffff;
+}

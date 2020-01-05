@@ -1,0 +1,4 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   6 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        532 May  8 10:21 UrlParserInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1428 May  8 10:21 UrlParser.php

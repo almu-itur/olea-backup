@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   4 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      10682 Nov 15  2016 config.php
+-rw-r--r--   1 adminftp@207891479237671 225273        595 Nov 15  2016 get.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8701 Nov 15  2016 notice.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6547 Nov 15  2016 start.php
+-rw-r--r--   1 adminftp@207891479237671 225273        551 Nov 15  2016 stats.php
+-rw-r--r--   1 adminftp@207891479237671 225273        761 Nov 15  2016 strict.php

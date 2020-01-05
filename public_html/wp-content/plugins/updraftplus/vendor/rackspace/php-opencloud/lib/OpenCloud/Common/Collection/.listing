@@ -1,0 +1,5 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x   9 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1878 May  8 10:21 ArrayCollection.php
+-rw-r--r--   1 adminftp@207891479237671 225273       8753 May  8 10:21 PaginatedIterator.php
+-rw-r--r--   1 adminftp@207891479237671 225273       6366 May  8 10:21 ResourceIterator.php

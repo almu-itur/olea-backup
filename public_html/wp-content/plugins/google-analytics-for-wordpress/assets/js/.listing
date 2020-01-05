@@ -1,0 +1,12 @@
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May 29 18:27 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 May 29 18:27 ..
+-rw-r--r--   1 adminftp@207891479237671 225273      37283 May 29 18:27 admin.js
+-rw-r--r--   1 adminftp@207891479237671 225273      21037 May 29 18:27 admin.min.js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 chartjs
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 clipboard
+-rw-r--r--   1 adminftp@207891479237671 225273      19166 May 29 18:27 frontend.js
+-rw-r--r--   1 adminftp@207891479237671 225273       6997 May 29 18:27 frontend.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273         67 May 29 18:27 index.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 jvectormap
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May 29 18:27 list
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May 29 18:27 select300

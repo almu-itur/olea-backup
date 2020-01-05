@@ -1,0 +1,6 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  15 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       4676 May  8 10:21 AwsQueryVisitor.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1621 May  8 10:21 JsonCommand.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1475 May  8 10:21 QueryCommand.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2147 May  8 10:21 XmlResponseLocationVisitor.php

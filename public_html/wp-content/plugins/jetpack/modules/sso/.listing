@@ -1,0 +1,9 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x  35 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       5494 Nov 15  2016 class.jetpack-sso-helpers.php
+-rw-r--r--   1 adminftp@207891479237671 225273       2997 Nov 15  2016 jetpack-sso-login.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1670 Nov 15  2016 jetpack-sso-login.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2579 Nov 15  2016 jetpack-sso-login.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       3094 Nov 15  2016 jetpack-sso-login-rtl.css
+-rw-r--r--   1 adminftp@207891479237671 225273       2488 Nov 15  2016 jetpack-sso-login-rtl.min.css
+-rw-r--r--   1 adminftp@207891479237671 225273       1335 Nov 15  2016 jetpack-sso-profile.css

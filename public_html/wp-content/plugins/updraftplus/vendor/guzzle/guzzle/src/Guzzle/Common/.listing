@@ -1,0 +1,11 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 May  8 10:21 .
+drwxr-xr-x  13 adminftp@207891479237671 225273       4096 May  8 10:21 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       1195 May  8 10:21 AbstractHasDispatcher.php
+-rw-r--r--   1 adminftp@207891479237671 225273      11534 May  8 10:21 Collection.php
+-rw-r--r--   1 adminftp@207891479237671 225273        503 May  8 10:21 composer.json
+-rw-r--r--   1 adminftp@207891479237671 225273       1064 May  8 10:21 Event.php
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 May  8 10:21 Exception
+-rw-r--r--   1 adminftp@207891479237671 225273        487 May  8 10:21 FromConfigInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273       1358 May  8 10:21 HasDispatcherInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273        245 May  8 10:21 ToArrayInterface.php
+-rw-r--r--   1 adminftp@207891479237671 225273        641 May  8 10:21 Version.php

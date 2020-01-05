@@ -1,0 +1,8 @@
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   5 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273       4874 Nov 15  2016 site-logo-control.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2035 Nov 15  2016 site-logo-control.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273        520 Nov 15  2016 site-logo-header-text.js
+-rw-r--r--   1 adminftp@207891479237671 225273        229 Nov 15  2016 site-logo-header-text.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       1025 Nov 15  2016 site-logo.js
+-rw-r--r--   1 adminftp@207891479237671 225273        369 Nov 15  2016 site-logo.min.js

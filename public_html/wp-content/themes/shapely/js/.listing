@@ -1,0 +1,11 @@
+drwxr-xr-x   3 adminftp@207891479237671 225273       4096 Nov 15  2016 .
+drwxr-xr-x   7 adminftp@207891479237671 225273       4096 Nov 15  2016 ..
+-rw-r--r--   1 adminftp@207891479237671 225273        989 Nov 15  2016 customizer.js
+drwxr-xr-x   2 adminftp@207891479237671 225273       4096 Nov 15  2016 dev
+-rw-r--r--   1 adminftp@207891479237671 225273      22342 Nov 15  2016 flexslider.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       4921 Nov 15  2016 jquery-cloneya.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       2279 Nov 15  2016 navigation.js
+-rw-r--r--   1 adminftp@207891479237671 225273       6662 Nov 15  2016 parallax.min.js
+-rw-r--r--   1 adminftp@207891479237671 225273       6933 Nov 15  2016 shapely-scripts.js
+-rw-r--r--   1 adminftp@207891479237671 225273        880 Nov 15  2016 skip-link-focus-fix.js
+-rw-r--r--   1 adminftp@207891479237671 225273       3211 Nov 15  2016 widget.js
